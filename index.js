@@ -6,4 +6,4 @@ http
     res.write('A Monk in Cloud'); //write a response to the client
     res.end(); //end the response
   })
-  .listen(8083); //the server object listens on port 8083
+  .listen(80); //the server object listens on port 8083
